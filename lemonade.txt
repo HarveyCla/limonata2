@@ -2,3 +2,6 @@
 2.şeker
 3.limon
 4.Çilek
+5.nane
+6.harvey
+7.helen
