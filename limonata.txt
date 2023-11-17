@@ -11,5 +11,5 @@ Seker2 eklenndi
 test1
 fenerbahçe
 yeni
-Hata var mı? Bak
+Hatasız kul olmaz
 
