@@ -11,4 +11,4 @@ Seker2 eklenndi
 test1
 fenerbahçe
 yeni
-
+Hatasız kul olmaz
